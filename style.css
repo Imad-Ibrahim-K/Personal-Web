@@ -1,0 +1,11 @@
+.headbox{
+width: 120px;
+height: 40px;
+background-color: white;
+border-radius: 3px;
+
+}
+.father-text{
+    position: absolute;
+    margin-left: 88px;
+}
