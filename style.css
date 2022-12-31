@@ -21,3 +21,13 @@ a:link, a:visited {
   a:hover, a:active {
     background-color: rgb(7, 164, 226);
   }
+  .imad-size{
+    padding-top: 70px;
+  }
+  .navbar-scrolled{
+    
+    position: fixed;
+    width: 100%; 
+    z-index: 1;
+  }
+  
