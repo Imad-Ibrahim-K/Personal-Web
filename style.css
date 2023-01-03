@@ -30,4 +30,6 @@ a:link, a:visited {
     width: 100%; 
     z-index: 1;
   }
-  
+  #scrolldown {
+    transition: top 0.3s;
+  }
